@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanYouHearMeNow", "CanYouHearMeNow\CanYouHearMeNow.csproj", "{59D787E5-FC97-4AE5-A39A-BEBDB77FA575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanYouHearMeNow.Tests", "CanYouHearMeNow.Tests\CanYouHearMeNow.Tests.csproj", "{4C0F4835-F026-46C5-AABB-44BB5A9BC3AC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs32
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CanYouHearMeNow.Tests\\CanYouHearMeNow.Tests.csproj
+		SccProjectName1 = CanYouHearMeNow.Tests
+		SccLocalPath1 = CanYouHearMeNow.Tests
+		SccProjectUniqueName2 = CanYouHearMeNow\\CanYouHearMeNow.csproj
+		SccProjectName2 = CanYouHearMeNow
+		SccLocalPath2 = CanYouHearMeNow
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59D787E5-FC97-4AE5-A39A-BEBDB77FA575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D787E5-FC97-4AE5-A39A-BEBDB77FA575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D787E5-FC97-4AE5-A39A-BEBDB77FA575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D787E5-FC97-4AE5-A39A-BEBDB77FA575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C0F4835-F026-46C5-AABB-44BB5A9BC3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0F4835-F026-46C5-AABB-44BB5A9BC3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0F4835-F026-46C5-AABB-44BB5A9BC3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0F4835-F026-46C5-AABB-44BB5A9BC3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
